@@ -1,8 +1,6 @@
 <template>
   <div>
-    <h2>Page: /products/index.vue</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad earum ipsam mollitia dolor ut porro deleniti amet, odio doloremque commodi.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad earum ipsam mollitia dolor ut porro deleniti amet, odio doloremque commodi.</p>
+    <h2>Products</h2>
   </div>
 </template>
 
