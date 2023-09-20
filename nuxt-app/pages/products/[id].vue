@@ -12,7 +12,7 @@
   const uri = 'https://fakestoreapi.com/products/' + id
 
   // fetch the product
-  const { data: product } = await useFetch(uri)
+  const { data: product } = await useFetch(uri, { key: id})
 
   definePageMeta({
     layout: 'products'
